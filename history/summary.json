@@ -22,19 +22,19 @@
     "url": "https://sme.pashabank.az",
     "icon": "https://icons.duckduckgo.com/ip3/sme.pashabank.az.ico",
     "slug": "pasha-bank-ojsc-sme-website",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 5315,
-    "timeDay": 8817,
-    "timeWeek": 5315,
-    "timeMonth": 5315,
-    "timeYear": 5315,
+    "status": "up",
+    "uptime": "98.81%",
+    "uptimeDay": "96.72%",
+    "uptimeWeek": "98.81%",
+    "uptimeMonth": "98.81%",
+    "uptimeYear": "98.81%",
+    "time": 4909,
+    "timeDay": 6839,
+    "timeWeek": 4909,
+    "timeMonth": 4909,
+    "timeYear": 4909,
     "dailyMinutesDown": {
-      "2023-09-18": 0
+      "2023-09-18": 47
     }
   }
 ]
