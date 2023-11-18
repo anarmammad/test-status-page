@@ -1,7 +1,7 @@
 url: https://sme.pashabank.az
-status: down
-code: 503
-responseTime: 15383
-lastUpdated: 2023-11-18T21:55:17.046Z
+status: up
+code: 200
+responseTime: 2103
+lastUpdated: 2023-11-18T22:24:30.771Z
 startTime: 2023-09-15T22:18:56.470Z
 generator: Upptime <https://github.com/upptime/upptime>
